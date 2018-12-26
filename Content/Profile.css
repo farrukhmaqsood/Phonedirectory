@@ -1,0 +1,136 @@
+﻿.navbar {
+    background-color: #02256d;
+    margin-bottom: 0px;
+}
+.col-sm-8
+a:link, a:visited{
+    border:1px solid #0080ff;
+      background-color: #80ffff;
+      color:  #0080ff;
+      padding: 4px 8px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    
+    a:hover, a:active {
+      background-color:  #0080ff;
+      color:white;
+    }
+
+.topnav {
+    border-bottom: 3px solid #e98a8a;
+    
+}
+
+.navbar-nav li a {
+    color: white;
+}
+
+    .navbar-nav li a:hover {
+        color: #041b4a;
+        background: #527bd0;
+    }
+
+.row-content {
+    width: 100%;
+    min-height: 570px;
+    /* background: #9db8ec; */
+    background-image: url("/phonedirectory/abstract_city_vector-wide.jpg");
+}
+
+.sidenav {
+    margin-top: 30px;
+    background-color: white;
+    min-height: 570px;
+    max-height: 100%;
+    border-right: 10px solid #611fac;
+    padding: 20px 50px;
+}
+
+.main-content {
+    min-height: 570px;
+    border-left: 10px solid #611fac;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: #ffffff;
+}
+
+
+footer {
+
+    background-color: #041b4a;
+    border-top: 2px solid white;
+    color: white;
+    padding: 15px 0px 10px;
+    
+}
+
+dt, dd {
+    color: #527bd0;
+    padding: 10px 10px;
+}
+
+.ph {
+    background-color:#02256d;
+    padding:10px;
+    margin-top:0px;
+    color: #e98a8a;
+    background-color:#02256d;padding:10px;margin-top:0px;
+}
+
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px dashed #041b4a;
+    border-radius: 50%;
+    width: 150px;
+}
+
+.btn-glass {
+    background: #527bd0;
+    border: 2px solid #02256d;
+}
+
+    .btn-glass a {
+        color: white;
+    }
+
+    .btn-glass:hover {
+        background: #02256d;
+        color: #527bd0;
+    }
+
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+}
+
+.control-label{
+    color: #ffffff;
+}
+
+.btn-sumbit {
+    width: 150px;
+    border-left: 3px solid #e98a8a;
+    background-color: #527bd0;
+    color: white;
+}
+
+.form-control{
+    border-left: 3px solid #e98a8a  ;
+}
+
+.gr {
+    padding: 30px 0px;
+    background-color: #8ec3f6;
+    margin: 25px;
+    text-align: center;
+}
+
+.gr a{
+    color:white;
+}
